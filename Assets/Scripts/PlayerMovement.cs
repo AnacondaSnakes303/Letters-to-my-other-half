@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerMoving : MonoBehaviour
 {
     private float horizontal;
     private float speed = 8f;

@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WinterIdleSheet_0: -1791649439297513470
+      WinterIdleSheet_1: 2894368454826489721
+      WinterIdleSheet_10: 5099801631347411385
+      WinterIdleSheet_11: -3890590732158820978
+      WinterIdleSheet_12: 7576121497766949906
+      WinterIdleSheet_13: -2622772197327414458
+      WinterIdleSheet_2: 7880623136110481673
+      WinterIdleSheet_3: 8188526169580245728
+      WinterIdleSheet_4: 4069789081011418997
+      WinterIdleSheet_5: 1476710780959838342
+      WinterIdleSheet_6: 2396377668117904793
+      WinterIdleSheet_7: 6788616963291049308
+      WinterIdleSheet_8: 4932610453714755234
+      WinterIdleSheet_9: 4312153892114231792
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
