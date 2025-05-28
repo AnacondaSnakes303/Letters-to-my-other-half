@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: f872c6e7987ea09448289fe81289ef01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5320422106732165201
+    second: BorzoiUPRightSpriteSHeet_0
+  - first:
+      213: 3502462632131376931
+    second: BorzoiUPRightSpriteSHeet_1
+  - first:
+      213: 2580584810341126858
+    second: BorzoiUPRightSpriteSHeet_2
+  - first:
+      213: -2237693144482309911
+    second: BorzoiUPRightSpriteSHeet_3
+  - first:
+      213: -3668646897388746610
+    second: BorzoiUPRightSpriteSHeet_4
+  - first:
+      213: -4036707549218293497
+    second: BorzoiUPRightSpriteSHeet_5
+  - first:
+      213: -1294748614910290990
+    second: BorzoiUPRightSpriteSHeet_6
+  - first:
+      213: -3847278168771228544
+    second: BorzoiUPRightSpriteSHeet_7
+  - first:
+      213: -418204177332613135
+    second: BorzoiUPRightSpriteSHeet_8
+  - first:
+      213: 1381577538520659543
+    second: BorzoiUPRightSpriteSHeet_9
+  - first:
+      213: 3358028271456871331
+    second: BorzoiUPRightSpriteSHeet_10
+  - first:
+      213: 6077183532902323487
+    second: BorzoiUPRightSpriteSHeet_11
+  - first:
+      213: 6886935266064848715
+    second: BorzoiUPRightSpriteSHeet_12
+  - first:
+      213: -808432309102101879
+    second: BorzoiUPRightSpriteSHeet_13
+  - first:
+      213: -7669374337780176977
+    second: BorzoiUPRightSpriteSHeet_14
+  - first:
+      213: 6984847045087180519
+    second: BorzoiUPRightSpriteSHeet_15
+  - first:
+      213: 7974756898564207219
+    second: BorzoiUPRightSpriteSHeet_16
+  - first:
+      213: -6390056203007311462
+    second: BorzoiUPRightSpriteSHeet_17
+  - first:
+      213: -4936536981395845231
+    second: BorzoiUPRightSpriteSHeet_18
+  - first:
+      213: 7154829653482266189
+    second: BorzoiUPRightSpriteSHeet_19
+  - first:
+      213: 5561176411511941128
+    second: BorzoiUPRightSpriteSHeet_20
+  - first:
+      213: -1344426073069130312
+    second: BorzoiUPRightSpriteSHeet_21
+  - first:
+      213: 6900907307794486959
+    second: BorzoiUPRightSpriteSHeet_22
+  - first:
+      213: 7034284411455625548
+    second: BorzoiUPRightSpriteSHeet_23
+  - first:
+      213: -6048629225924782884
+    second: BorzoiUPRightSpriteSHeet_24
+  - first:
+      213: -1522873865204037193
+    second: BorzoiUPRightSpriteSHeet_25
+  - first:
+      213: 6952011176494179898
+    second: BorzoiUPRightSpriteSHeet_26
+  - first:
+      213: 2156785238413230197
+    second: BorzoiUPRightSpriteSHeet_27
+  - first:
+      213: 756517086687651528
+    second: BorzoiUPRightSpriteSHeet_28
+  - first:
+      213: 6131922741589969321
+    second: BorzoiUPRightSpriteSHeet_29
+  - first:
+      213: 8413117418148543566
+    second: BorzoiUPRightSpriteSHeet_30
+  - first:
+      213: 8773914681455142134
+    second: BorzoiUPRightSpriteSHeet_31
+  - first:
+      213: -5198284312610361940
+    second: BorzoiUPRightSpriteSHeet_32
+  - first:
+      213: -7834152333840564416
+    second: BorzoiUPRightSpriteSHeet_33
+  - first:
+      213: 4030525030470041157
+    second: BorzoiUPRightSpriteSHeet_34
+  - first:
+      213: 2090573978831380001
+    second: BorzoiUPRightSpriteSHeet_35
+  - first:
+      213: -3099804191258794189
+    second: BorzoiUPRightSpriteSHeet_36
+  - first:
+      213: 6346483360856700952
+    second: BorzoiUPRightSpriteSHeet_37
+  - first:
+      213: -7998412298587506276
+    second: BorzoiUPRightSpriteSHeet_38
+  - first:
+      213: -3880774074774484413
+    second: BorzoiUPRightSpriteSHeet_39
+  - first:
+      213: -827805845516420186
+    second: BorzoiUPRightSpriteSHeet_40
+  - first:
+      213: -1779840650383957167
+    second: BorzoiUPRightSpriteSHeet_41
+  - first:
+      213: 5976454187353526877
+    second: BorzoiUPRightSpriteSHeet_42
+  - first:
+      213: -2537754918130507269
+    second: BorzoiUPRightSpriteSHeet_43
+  - first:
+      213: 6868095944783935193
+    second: BorzoiUPRightSpriteSHeet_44
+  - first:
+      213: -6801103780878468553
+    second: BorzoiUPRightSpriteSHeet_45
+  - first:
+      213: -3623150630156054434
+    second: BorzoiUPRightSpriteSHeet_46
+  - first:
+      213: -1602634366157891866
+    second: BorzoiUPRightSpriteSHeet_47
+  - first:
+      213: -2643897898851180733
+    second: BorzoiUPRightSpriteSHeet_48
+  - first:
+      213: 8940263523485081031
+    second: BorzoiUPRightSpriteSHeet_49
+  - first:
+      213: -7064158809712546785
+    second: BorzoiUPRightSpriteSHeet_50
+  - first:
+      213: -7038928044352928844
+    second: BorzoiUPRightSpriteSHeet_51
+  - first:
+      213: 680665189222233473
+    second: BorzoiUPRightSpriteSHeet_52
+  - first:
+      213: 6324534709676449189
+    second: BorzoiUPRightSpriteSHeet_53
+  - first:
+      213: -8854547862468520545
+    second: BorzoiUPRightSpriteSHeet_54
+  - first:
+      213: 1080221868029123837
+    second: BorzoiUPRightSpriteSHeet_55
+  - first:
+      213: -6115916582588586828
+    second: BorzoiUPRightSpriteSHeet_56
+  - first:
+      213: 8541242127199906930
+    second: BorzoiUPRightSpriteSHeet_57
+  - first:
+      213: 7636806857666094543
+    second: BorzoiUPRightSpriteSHeet_58
+  - first:
+      213: -4902656473836773637
+    second: BorzoiUPRightSpriteSHeet_59
+  - first:
+      213: 8991419304793448239
+    second: BorzoiUPRightSpriteSHeet_60
+  - first:
+      213: -5393602267348540959
+    second: BorzoiUPRightSpriteSHeet_61
+  - first:
+      213: 6392403738140303877
+    second: BorzoiUPRightSpriteSHeet_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_0
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 12735
+        width: 934
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158f7ee97bfe5d940800000000000000
+      internalID: 5320422106732165201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_1
+      rect:
+        serializedVersion: 2
+        x: 19033
+        y: 14642
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3273543053f3b9030800000000000000
+      internalID: 3502462632131376931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_2
+      rect:
+        serializedVersion: 2
+        x: 8788
+        y: 14602
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2d625663410d320800000000000000
+      internalID: 2580584810341126858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_3
+      rect:
+        serializedVersion: 2
+        x: 12296
+        y: 14602
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81eced0fd12f0e0800000000000000
+      internalID: -2237693144482309911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_4
+      rect:
+        serializedVersion: 2
+        x: 19008
+        y: 14608
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880eca8519561dc0800000000000000
+      internalID: -3668646897388746610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_5
+      rect:
+        serializedVersion: 2
+        x: 15058
+        y: 12685
+        width: 954
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b4b21fdbbaf7c0800000000000000
+      internalID: -4036707549218293497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_6
+      rect:
+        serializedVersion: 2
+        x: 19087
+        y: 14587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d7de9ef0280ee0800000000000000
+      internalID: -1294748614910290990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_7
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 12735
+        width: 984
+        height: 1824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c8646a3e8bb9ac0800000000000000
+      internalID: -3847278168771228544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_8
+      rect:
+        serializedVersion: 2
+        x: 8036
+        y: 12695
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff4186348d323af0800000000000000
+      internalID: -418204177332613135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_9
+      rect:
+        serializedVersion: 2
+        x: 11544
+        y: 12695
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756be2d83795c2310800000000000000
+      internalID: 1381577538520659543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_10
+      rect:
+        serializedVersion: 2
+        x: 18636
+        y: 12731
+        width: 955
+        height: 1840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e7e9dbec1a9e20800000000000000
+      internalID: 3358028271456871331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_11
+      rect:
+        serializedVersion: 2
+        x: 19361
+        y: 12704
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151f71993e765450800000000000000
+      internalID: 6077183532902323487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_12
+      rect:
+        serializedVersion: 2
+        x: 15728
+        y: 12664
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d7ecc22f439f50800000000000000
+      internalID: 6886935266064848715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_13
+      rect:
+        serializedVersion: 2
+        x: 15981
+        y: 12655
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a350f191fd7c4f0800000000000000
+      internalID: -808432309102101879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_14
+      rect:
+        serializedVersion: 2
+        x: 15734
+        y: 12627
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ad138ca8e09590800000000000000
+      internalID: -7669374337780176977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_15
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 10266
+        width: 936
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6bbd451692fe060800000000000000
+      internalID: 6984847045087180519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_16
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 10262
+        width: 990
+        height: 1821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372f30da5270cae60800000000000000
+      internalID: 7974756898564207219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_17
+      rect:
+        serializedVersion: 2
+        x: 8034
+        y: 10222
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c7f44db5f157a0800000000000000
+      internalID: -6390056203007311462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_18
+      rect:
+        serializedVersion: 2
+        x: 11542
+        y: 10222
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f425335c5ed7bb0800000000000000
+      internalID: -4936536981395845231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_19
+      rect:
+        serializedVersion: 2
+        x: 15052
+        y: 10236
+        width: 952
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edd3479af0b4360800000000000000
+      internalID: 7154829653482266189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_20
+      rect:
+        serializedVersion: 2
+        x: 18630
+        y: 10244
+        width: 866
+        height: 1844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808637d5b744d2d40800000000000000
+      internalID: 5561176411511941128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_21
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 7775
+        width: 934
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bde0ff0c93a75de0800000000000000
+      internalID: -1344426073069130312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_22
+      rect:
+        serializedVersion: 2
+        x: 19033
+        y: 9682
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6dcf442a2f4cf50800000000000000
+      internalID: 6900907307794486959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_23
+      rect:
+        serializedVersion: 2
+        x: 8788
+        y: 9642
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4951e9276cce9160800000000000000
+      internalID: 7034284411455625548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_24
+      rect:
+        serializedVersion: 2
+        x: 12296
+        y: 9642
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd415ba14c3fe0ca0800000000000000
+      internalID: -6048629225924782884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_25
+      rect:
+        serializedVersion: 2
+        x: 19008
+        y: 9648
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b989c2c94aaddae0800000000000000
+      internalID: -1522873865204037193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_26
+      rect:
+        serializedVersion: 2
+        x: 15058
+        y: 7725
+        width: 954
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a362b79e4518a7060800000000000000
+      internalID: 6952011176494179898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_27
+      rect:
+        serializedVersion: 2
+        x: 19087
+        y: 9627
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5704d684fb07eed10800000000000000
+      internalID: 2156785238413230197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_28
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 7775
+        width: 984
+        height: 1824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e78a3840bf7a00800000000000000
+      internalID: 756517086687651528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_29
+      rect:
+        serializedVersion: 2
+        x: 8036
+        y: 7735
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90c92ce37f81550800000000000000
+      internalID: 6131922741589969321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_30
+      rect:
+        serializedVersion: 2
+        x: 11544
+        y: 7735
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c356a97b561c470800000000000000
+      internalID: 8413117418148543566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_31
+      rect:
+        serializedVersion: 2
+        x: 18636
+        y: 7771
+        width: 955
+        height: 1840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4e7b5aae433c970800000000000000
+      internalID: 8773914681455142134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_32
+      rect:
+        serializedVersion: 2
+        x: 19361
+        y: 7744
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadaf5995fbfbd7b0800000000000000
+      internalID: -5198284312610361940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_33
+      rect:
+        serializedVersion: 2
+        x: 15728
+        y: 7704
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fb221a5ff774390800000000000000
+      internalID: -7834152333840564416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_34
+      rect:
+        serializedVersion: 2
+        x: 15981
+        y: 7695
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ebc7b192d4fe730800000000000000
+      internalID: 4030525030470041157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_35
+      rect:
+        serializedVersion: 2
+        x: 15734
+        y: 7667
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e5be815f5330d10800000000000000
+      internalID: 2090573978831380001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_36
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 5306
+        width: 936
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a0c2f2884bf4d0800000000000000
+      internalID: -3099804191258794189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_37
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 5302
+        width: 990
+        height: 1821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8187ac8ddfc331850800000000000000
+      internalID: 6346483360856700952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_38
+      rect:
+        serializedVersion: 2
+        x: 8034
+        y: 5262
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99739f446eeff090800000000000000
+      internalID: -7998412298587506276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_39
+      rect:
+        serializedVersion: 2
+        x: 11542
+        y: 5262
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a858b4a88b42ac0800000000000000
+      internalID: -3880774074774484413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_40
+      rect:
+        serializedVersion: 2
+        x: 15052
+        y: 5276
+        width: 952
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab700b28fa0384f0800000000000000
+      internalID: -827805845516420186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_41
+      rect:
+        serializedVersion: 2
+        x: 18630
+        y: 5284
+        width: 866
+        height: 1844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536015cb5cbc47e0800000000000000
+      internalID: -1779840650383957167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_42
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2815
+        width: 934
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d525a953b61a0f250800000000000000
+      internalID: 5976454187353526877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_43
+      rect:
+        serializedVersion: 2
+        x: 19033
+        y: 4722
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a4d9f85518ccd0800000000000000
+      internalID: -2537754918130507269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_44
+      rect:
+        serializedVersion: 2
+        x: 8788
+        y: 4682
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b5208fd0605f50800000000000000
+      internalID: 6868095944783935193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_45
+      rect:
+        serializedVersion: 2
+        x: 12296
+        y: 4682
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3c242520ad91a0800000000000000
+      internalID: -6801103780878468553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_46
+      rect:
+        serializedVersion: 2
+        x: 19008
+        y: 4688
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d0d9b2bbf7bdc0800000000000000
+      internalID: -3623150630156054434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_47
+      rect:
+        serializedVersion: 2
+        x: 15058
+        y: 2765
+        width: 954
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6535cf88c42c9e0800000000000000
+      internalID: -1602634366157891866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_48
+      rect:
+        serializedVersion: 2
+        x: 19087
+        y: 4667
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd2947edcfe4bd0800000000000000
+      internalID: -2643897898851180733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_49
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 2815
+        width: 984
+        height: 1824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdd5bb9e42321c70800000000000000
+      internalID: 8940263523485081031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_50
+      rect:
+        serializedVersion: 2
+        x: 8036
+        y: 2775
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c23267df017fd90800000000000000
+      internalID: -7064158809712546785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_51
+      rect:
+        serializedVersion: 2
+        x: 11544
+        y: 2775
+        width: 1035
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b30fcccc34b05e90800000000000000
+      internalID: -7038928044352928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_52
+      rect:
+        serializedVersion: 2
+        x: 18636
+        y: 2811
+        width: 955
+        height: 1840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185b09e1265327900800000000000000
+      internalID: 680665189222233473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_53
+      rect:
+        serializedVersion: 2
+        x: 19361
+        y: 2784
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad94e34fc245c750800000000000000
+      internalID: 6324534709676449189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_54
+      rect:
+        serializedVersion: 2
+        x: 15728
+        y: 2744
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f959edae1a35e1580800000000000000
+      internalID: -8854547862468520545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_55
+      rect:
+        serializedVersion: 2
+        x: 15981
+        y: 2735
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc1c72d018bdfe00800000000000000
+      internalID: 1080221868029123837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_56
+      rect:
+        serializedVersion: 2
+        x: 15734
+        y: 2707
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e2ea8546ef1ba0800000000000000
+      internalID: -6115916582588586828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_57
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 346
+        width: 936
+        height: 1902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2a541676988670800000000000000
+      internalID: 8541242127199906930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_58
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 342
+        width: 990
+        height: 1821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5647120636bf960800000000000000
+      internalID: 7636806857666094543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_59
+      rect:
+        serializedVersion: 2
+        x: 8034
+        y: 302
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe903599e346fbb0800000000000000
+      internalID: -4902656473836773637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_60
+      rect:
+        serializedVersion: 2
+        x: 11542
+        y: 302
+        width: 1040
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9dc81830f7cc70800000000000000
+      internalID: 8991419304793448239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_61
+      rect:
+        serializedVersion: 2
+        x: 15052
+        y: 316
+        width: 952
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1e2fa70531625b0800000000000000
+      internalID: -5393602267348540959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BorzoiUPRightSpriteSHeet_62
+      rect:
+        serializedVersion: 2
+        x: 18630
+        y: 324
+        width: 866
+        height: 1844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5026bb8d45166b850800000000000000
+      internalID: 6392403738140303877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
